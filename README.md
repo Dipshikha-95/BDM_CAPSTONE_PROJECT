@@ -1,5 +1,7 @@
 # BDM_CAPSTONE_PROJECT
 **PPT-LINK :** https://1drv.ms/p/c/976d207f3453c6d5/ERymp37foDNHhXxbOI-PFIgB2LRgKGFxbTnm2OVToWEj7**Q?e=xJV0ZD
+
+
 ##**Optimizing Sales & Marketing Strategies for Sustainable Growth at Ajay Prasad Jewellers**
 
 
@@ -95,7 +97,6 @@ Dipshikha-Proposal.docx — Initial project proposal
 
 analysis_data.xlsx (external link below) — Cleaned & analyzed dataset
 
-**📎 Excel Dataset Link**: https://onedrive.live.com/personal/976d207f3453c6d5/_layouts/15/Doc.aspx?sourcedoc=%7Baa89c549-a8a6-4f39-b512-3775a1c70152%7D&action=default&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy85NzZkMjA3ZjM0NTNjNmQ1L0VVbkZpYXFtcURsUHRSSTNkYUhIQVZJQmgtSUNhZGtSV3IzbDctUmVrUGJqMHc_ZT13Z1c1SDY&slrid=ad3ba2a1-c051-9000-0c51-4f803c192197&originalPath=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy85NzZkMjA3ZjM0NTNjNmQ1L0VVbkZpYXFtcURsUHRSSTNkYUhIQVZJQmgtSUNhZGtSV3IzbDctUmVrUGJqMHc_cnRpbWU9Q3JHanRCT2QzVWc&CID=d7c07447-673e-4b1d-acb1-22579cf12a44&_SRM=0:G:43
 
 **👩‍💻 Author**
 
