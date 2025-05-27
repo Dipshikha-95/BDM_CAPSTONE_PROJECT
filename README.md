@@ -1,2 +1,2 @@
 # BDM_CAPSTONE_PROJECT
-PPT-LINK : https://in.docworkspace.com/d/sIGa15pCqAt3C1sEG
+PPT-LINK : https://1drv.ms/p/c/976d207f3453c6d5/ERymp37foDNHhXxbOI-PFIgB2LRgKGFxbTnm2OVToWEj7Q?e=xJV0ZD
